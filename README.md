@@ -3,4 +3,15 @@ practice web app, this app is about creating, editing and deleting tasks, using 
 
 App listens to localhost://3000
 
-MongoDB is named: crud-mongo
+Mongo DB is named: crud-mongo
+
+run npm i command before running the app
+
+# running app 
+
+if nedeed, install nodemon using:
+
+npm i nodemon -D
+
+for running app using nodemon, use = npm run dev
+
